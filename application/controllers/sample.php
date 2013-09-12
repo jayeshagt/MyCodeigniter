@@ -33,7 +33,10 @@ class Sample extends MY_Controller {
 	public function finalone()
 	{
 	   echo "TRhis is final one";
+	   //this is added by Jayesh
 	}
+	
+	
 
 }
 
