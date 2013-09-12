@@ -24,6 +24,10 @@ class Sample extends MY_Controller {
 	public function newfunc(){
 	 echo "this will be my last function for the day";
 	}
+	
+	public function lastone() {
+		echo "Head out for the day";
+	}
 
 }
 
