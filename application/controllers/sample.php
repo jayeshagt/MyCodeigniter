@@ -14,6 +14,9 @@ class Sample extends MY_Controller {
         $this->template->write_view('content', 'frontend/home');
         $this->template->render();
     }
+    public function second (){
+        echo "here";
+    }
 
     
 
