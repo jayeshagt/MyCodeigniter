@@ -18,7 +18,9 @@ class Sample extends MY_Controller {
         echo "here";
     }
 
-    
+    public function	third() {
+		echo "Third";
+	}
 
 }
 
