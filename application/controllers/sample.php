@@ -28,6 +28,11 @@ class Sample extends MY_Controller {
 	public function lastone() {
 		echo "Head out for the day";
 	}
+	
+	public function finalone()
+	{
+	   echo "TRhis is final one";
+	}
 
 }
 
