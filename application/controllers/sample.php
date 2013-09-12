@@ -37,7 +37,7 @@ class Sample extends MY_Controller {
 	}
 	
 	
-
+// this is added by sathish;
 }
 
 ?>
