@@ -21,6 +21,9 @@ class Sample extends MY_Controller {
     public function	third() {
 		echo "Third";
 	}
+	public function newfunc(){
+	 echo "this will be my last function for the day";
+	}
 
 }
 
