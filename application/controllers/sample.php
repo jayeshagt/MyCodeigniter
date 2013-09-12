@@ -38,6 +38,7 @@ class Sample extends MY_Controller {
 	
 	
 // this is added by sathish;
+//finally this is working.Thanks to all..
 }
 
 ?>
