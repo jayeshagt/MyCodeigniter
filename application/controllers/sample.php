@@ -27,6 +27,7 @@ class Sample extends MY_Controller {
 	
 	public function lastone() {
 		echo "Head out for the day";
+		//commited by  vasu...under the Jayesh branch
 	}
 
 }
