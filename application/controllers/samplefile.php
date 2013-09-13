@@ -21,7 +21,7 @@ class SampleFile extends MY_Controller {
     }
 	
 	public function githubexample() {
-		echo "Just sample method"
+		echo "Just sample method";
 	}
     
 }
