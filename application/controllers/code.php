@@ -8,5 +8,10 @@ class Code extends MY_Controller {
         parent::__construct();
     }
 
+	
+	public function firstmethod()
+	{
+		$message = "Working with the help of GIT command prompt.."
+	}
 }
 ?>
