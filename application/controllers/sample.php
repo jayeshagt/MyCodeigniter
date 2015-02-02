@@ -42,7 +42,6 @@ class Sample extends MY_Controller {
 		$worked = "this changes are worked on 08-jan-2014";
 	}
 	
-//This is added for the testing purpose	
 // this is added by sathish;
 //finally this is working.Thanks to all..
 }
